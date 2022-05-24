@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 # About My Github
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=McGregorWwww&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McGregorWwww&layout=compact&theme=dark)](https://github.com/McGregorWwww/github-readme-stats)
 
 # About My Blog

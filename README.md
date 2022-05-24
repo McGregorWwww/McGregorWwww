@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McGregorWwww&layout=compact)](https://github.com/McGregorWwww/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![McGregorWwww's GitHub stats](https://github-readme-stats.vercel.app/api?username=McGregorWwww&show_icons=true&theme=tokyonight)

@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-- I've just received the B.Eng of Computer Science in **Northeastern University**.
+- I've just received my B.Eng degree of Computer Science in **Northeastern University**.
 - My current interests include **Computer Vision**, **Semantic Segmentation** and **Medical Image Processing**.
 - Feel free to contact me: [haonan1wang@gmail.com](haonan1wang@gmail.com)
 
